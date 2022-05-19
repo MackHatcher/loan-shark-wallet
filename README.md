@@ -1,1 +1,1 @@
-Do not forget to fork mainnet
+For this to work properly, you will need to fork the mainnet.
